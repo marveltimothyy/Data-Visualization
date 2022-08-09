@@ -1,4 +1,3 @@
-#Data Visualization
 ## Description🔎
 This repository contain Netflix Visualization and analysis that processed using Python, the full visualization are in Google Data Studio that can be access <a href="https://datastudio.google.com/reporting/7d825c62-e6d1-4974-9764-25f20fe57565">Here</a>  
 
